@@ -1,5 +1,5 @@
-# lab2
-lab2 work
+# lab
+lab work
 ## Project Description
 
 ## Group
